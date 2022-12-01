@@ -1,0 +1,1 @@
+# AUTH service for future projects based on JWT Tokens 
